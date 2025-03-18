@@ -1,6 +1,6 @@
 # Fees Management System
 
-This is a **Fees Management System** built using [your tech stack].
+This is a **Fees Management System** built using PHP ,HTML,JS,CSS.
 
 ## Features
 - Student fee tracking
